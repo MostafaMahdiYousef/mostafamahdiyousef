@@ -53,25 +53,15 @@
 ## 📫 Let's Connect!
 
 <div align="center">
-  <h2>Let's Connect!</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
-    <a href="https://mostafamahdiyousef.github.io/" target="_blank" style="text-decoration: none;">
-      <div style="background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-        Personal Website
-      </div>
-    </a>
-    <a href="https://linkedin.com/in/mostafa-mahdi-yousef" target="_blank" style="text-decoration: none;">
-      <div style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-        LinkedIn
-      </div>
-    </a>
-    <a href="https://github.com/MostafaMahdiYousef" target="_blank" style="text-decoration: none;">
-      <div style="background-color: #333; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-        GitHub
-      </div>
-    </a>
-  </div>
-  <div style="margin-top: 15px; font-size: 1.2em;">
-    📧 Email: <a href="mailto:mostafa6@yorku.ca" style="color: #0077B5; font-weight: bold;">mostafa6@yorku.ca</a>
-  </div>
+  <a href="https://mostafamahdiyousef.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Website-Visit-blue?style=for-the-badge" alt="Personal Website" />
+  </a>
+  <a href="https://linkedin.com/in/mostafa-mahdi-yousef" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MostafaMahdiYousef" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge" alt="GitHub" />
+  </a>
 </div>
+<div align="center" style="margin-top: 1em;">
+  📧 Email: <a href="mailto:mostafa6@yorku.ca"><strong>mostafa6@yorku.ca</strong></a>

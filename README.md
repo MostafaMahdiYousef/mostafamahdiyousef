@@ -11,7 +11,7 @@
 ## 🔍 About Me
 - **📚** PhD student in Electrical Engineering at **York University**.
 - **🎓** Master's graduate from **Sharif University of Technology**, with innovative contributions in **dynamic state estimation** and **smart grids**.
-- **🏭** Hands-on experience at **Damvand Power Plant**, the largest in the Middle East.
+- **🏭** Hands-on experience at **Damavand Power Plant**, the largest in the Middle East.
 - **🏆** Recognized for ranking **26th** nationwide in Power Systems and Power Electronics for the MSc entrance exam.
 
 <hr>

@@ -65,3 +65,4 @@
 </div>
 <div align="center" style="margin-top: 1em;">
   📧 Email: <a href="mailto:mostafa6@yorku.ca"><strong>mostafa6@yorku.ca</strong></a>
+</div>
